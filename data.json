@@ -1,0 +1,11 @@
+{
+    "name": "Shandika",
+    "age": 18,
+    "email": "sh@gmail.com",
+    "isSubscribed": true,
+    "hobbies": ["Music", "Gaming", "Sing a song"],
+    "address": {
+        "city": "Badung",
+        "idk": true
+    }
+}
